@@ -16,7 +16,7 @@ Upload on Doodstream by Url, File and also by direct forward post from other cha
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Amul-jat/doodstreambot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/FilmyFather/doodstreambot)
 
 ##### Required Variables
 
@@ -29,4 +29,4 @@ Upload on Doodstream by Url, File and also by direct forward post from other cha
 
 ##### Credit
 
-- Me [Amul-jat](https://github.com/Amul-jat) For This Repo
+- Me [Yuvi - Chauhan](https://github.com/Amul-jat) For This Repo
