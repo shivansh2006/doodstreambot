@@ -29,4 +29,4 @@ Upload on Doodstream by Url, File and also by direct forward post from other cha
 
 ##### Credit
 
-- Me [Yuvi - Chauhan](https://github.com/Amul-jat) For This Repo
+- Me [Yuvi - Chauhan](https://github.com/FilmyFather) For This Repo
